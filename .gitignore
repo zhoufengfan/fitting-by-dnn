@@ -1,0 +1,9 @@
+
+*
+!*/
+!*.py
+!*.md
+!.gitignore
+.ipynb_checkpoints
+.idea
+.vscode
